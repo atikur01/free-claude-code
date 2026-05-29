@@ -1,0 +1,14 @@
+{
+  "env": {
+    "ANTHROPIC_BASE_URL": "https://free-claude-code-f4vl.onrender.com",
+    "ANTHROPIC_MODEL": "Claude Opus 4.7",
+    "ANTHROPIC_API_KEY": "4LICf4K8vGNbZto5wvdHHzYMImmuthHPYjpiBgUWAboWndBwUxuqJQQJ99CEACHYHv6XJ3w3AAAAACOGKyrg"
+  },
+  "permissions": {
+    "allow": [
+      "*"
+    ],
+    "defaultMode": "bypassPermissions"
+  },
+  "skipDangerousModePermissionPrompt": true
+}
